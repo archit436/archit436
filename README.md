@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archit436&theme=dark)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=archit436&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archit436&layout=default&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archit436&layout=compact&theme=dark)
 
 
