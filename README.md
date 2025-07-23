@@ -25,6 +25,9 @@
 
 ## 🛠️ Projects
 
+🚧 **Currently Loading... Stay tuned!**
+
+<!-- 
 ### 🔬 Wearable Bladder Diary
 > Non-invasive wearable + AI to replace traditional voiding logs  
 Tech: Python, React Native, PostgreSQL, AWS Lambda, MetaWear API
@@ -38,14 +41,16 @@ Tech: Python, Scikit-learn, NLP
 Tech: Flask, OpenAI API, Firebase
 
 👉 [More Projects →](https://github.com/architbhargava?tab=repositories)
+-->
+
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:** Python • JavaScript • C/C++ • SQL  
-**Frameworks/Libraries:** React Native • Flask • Pandas • Scikit-learn • PyTorch  
-**Tools/Cloud:** AWS • Power BI • PostgreSQL • Git • Firebase
+**Languages:** Python • JavaScript • C/C++ • SQL (PostgreSQL & MySQL) • Swift
+**Frameworks/Libraries:** React Native • Pandas • Scikit-learn • PyTorch • Matplotlib
+**Tools/Softwares:** AWS Cloud (Amplify, Lambda, Cognito, VPC, RDS, S3, EC2) • Google Cloud (Firebase & Firestore) • MS Power BI • MS Excel
 
 ---
 
