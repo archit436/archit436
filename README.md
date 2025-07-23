@@ -48,11 +48,20 @@ Tech: Flask, OpenAI API, Firebase
 
 ## 🧰 Tech Stack
 
-**Languages:** Python • JavaScript • C/C++ • SQL (PostgreSQL & MySQL) • Swift
-**Frameworks/Libraries:** React Native • Pandas • Scikit-learn • PyTorch • Matplotlib
-**Tools/Softwares:** AWS Cloud (Amplify, Lambda, Cognito, VPC, RDS, S3, EC2) • Google Cloud (Firebase & Firestore) • MS Power BI • MS Excel
+**Languages:**  
+Python • JavaScript • C/C++ • SQL (PostgreSQL, MySQL) • Swift  
+
+**Frameworks & Libraries:**  
+React Native • Pandas • Scikit-learn • PyTorch • Matplotlib  
+
+**Cloud & Dev Tools:**  
+AWS (Amplify, Lambda, Cognito, VPC, RDS, S3, EC2) • Firebase • Firestore  
+
+**Data & Productivity:**  
+MS Power BI • MS Excel • RDBMS • Git
 
 ---
+
 
 ## 📈 GitHub Stats
 
